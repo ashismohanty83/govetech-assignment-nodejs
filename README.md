@@ -4,7 +4,7 @@ GovTech Assignment Test
 ## File Format
 
 `````
-Application scan and filter only .js & .json files and can be scan other files like .java & .txt with small modification like 
+Application is now scan and filter only .js & .json files and can be scan other files like .java & .txt with small modification like 
 
 if (file.endsWith('.json') || file.endsWith('.js'))
           filelist.push(dir + file);
