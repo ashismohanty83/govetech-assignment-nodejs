@@ -11,7 +11,7 @@ if (file.endsWith('.json') || file.endsWith('.js'))
 
 ``````
 
-## .JS Files Details
+## .JS File Details (code follow up)
 
 ```
 get-all-files.js - scan and return the .js & .json files from Given Directory and its child directory
